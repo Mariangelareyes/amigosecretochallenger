@@ -3,5 +3,5 @@ Un Reto muy cuesta arriba para mi, muchos años atras programe en la Universidad
 A mi edad y con tantos tropiezos espero culminar este Curso, Gracias por la oportunidad !
 
 <h4 align="center">
-:construction: Vamos que se puede:construction:
+:construction: Vamos que se Puede:construction:
 </h4>
